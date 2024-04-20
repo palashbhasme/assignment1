@@ -1,16 +1,9 @@
-# assigment1
+# Assigment1
 
-internship assignment 1
+This is to display basic CRUD operations using sqlite database using flutter.
 
-## Getting Started
+![home screen2](https://github.com/palashbhasme/assignment1/assets/62600480/874fb584-2a42-4d0f-aaa0-8866df4590d5)                                  ![bottom2](https://github.com/palashbhasme/assignment1/assets/62600480/8efae4dd-e4e3-4477-b71b-8ea3f580bf82)      
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
